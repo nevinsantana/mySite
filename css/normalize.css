@@ -1,5 +1,7 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
-
+* {
+  box-sizing: border-box;
+}
 /**
  * 1. Set default font family to sans-serif.
  * 2. Prevent iOS text size adjust after orientation change, without disabling
@@ -333,8 +335,7 @@ input {
 
 input[type="checkbox"],
 input[type="radio"] {
-  box-sizing: border-box; /* 1 */
-  padding: 0; /* 2 */
+  padding: 0; /* 1 */
 }
 
 /**
