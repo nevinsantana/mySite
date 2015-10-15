@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html {
   font-family: "Century Gothic", sans-serif;
 }
@@ -29,3 +30,17 @@ html {
   text-align: center;
   padding: 1em;
 }
+=======
+body {
+  font-family: "Century Gothic", sans-serif;
+}
+
+/*index.html Principal*/
+.header {
+  width: 100%;
+  height: 2em;
+  background-color: #606060;
+  border: 1px solid black;
+}
+/**//**/
+>>>>>>> origin/master
